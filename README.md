@@ -33,7 +33,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CohedLo&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PurpleBooth&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **CohedLo/CohedLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

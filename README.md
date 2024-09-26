@@ -8,7 +8,7 @@
 
 ### :man_singer: About Me :
 
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Russia.
+I am a Backend Developer from Russia.
 - :telescope: I'm studying in backend development.
 
 - :seedling: Exploring Technical Content Writing.
